@@ -1,4 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# Name: VANATHI T
+# Register number: 212225040480
+# Date: 31.08.2026
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
